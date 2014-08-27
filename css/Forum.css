@@ -146,5 +146,7 @@
 }
 .forum-footer p strong {
 }
-
+.BBCodeHint #HideBBCodeHint{
+	display: none;
+}
 
