@@ -59,8 +59,8 @@
 		});
 		$("#HideBBCodeHint").click(function() {
 			$("#BBTagsHolder").toggleClass("showing");
-			$("#ViewBBCodeHint").hide();
-			$("#HideBBCodeHint").show();
+			$("#ViewBBCodeHint").show();
+			$("#HideBBCodeHint").hide();
 			$("#BBTagsHolder").toggle();
 			return false;
 		});
