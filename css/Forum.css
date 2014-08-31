@@ -35,7 +35,6 @@
 .typography .start-topic:hover{
 	color: #92b167;
 	background: #e4e4e4;
-	background: #e4e4e4;
 	background: -moz-linear-gradient(top,  #e4e4e4 0%, #ffffff 100%);
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e4e4e4), color-stop(100%,#ffffff));
 	background: -webkit-linear-gradient(top,  #e4e4e4 0%,#ffffff 100%);
